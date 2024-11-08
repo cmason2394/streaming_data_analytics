@@ -1,0 +1,11 @@
+Resources for Learning Streaming Data
+
+Introduction to Kafka (Kafka 101)
+https://developer.confluent.io/courses/apache-kafka/events/
+
+Introduction to Kafka Streams
+https://kafka.apache.org/documentation/streams/
+
+Hello World Project with PubNub
+https://www.pubnub.com/docs/sdks/python
+

@@ -1,0 +1,27 @@
+# Office / Windows temporary files
+~$*
+~WRL*.tmp
+*.tmp
+desktop.ini
+
+# Stray pip artifact (from an unquoted version spec like pkg>=9.0.0)
+*9.0.0'
+
+# Course materials provided by the professor (slides, readings, task sheets)
+*.pptx
+*.pdf
+Unit*/Unit [0-9].docx
+Unit3/MachineLearningAlgorithms.jpg
+
+# Discussion posts
+dp[0-9]*.docx
+*discussion*post*.docx
+
+# Personal experiments outside the graded projects
+Unit2/play-with-kafka.py
+Unit2/PubNub-basic-setup.py
+
+# Scratch copies, instructor solutions and private feedback
+Unit5/current-code-ip5.txt
+Unit5/example-solution-IP5.py
+*feedback*.docx

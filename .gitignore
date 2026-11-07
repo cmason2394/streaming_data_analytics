@@ -10,6 +10,7 @@ desktop.ini
 # Course materials provided by the professor (slides, readings, task sheets)
 *.pptx
 *.pdf
+!Unit2/IP2-pub-sub-energy.pdf
 Unit*/Unit [0-9].docx
 Unit3/MachineLearningAlgorithms.jpg
 
